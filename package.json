@@ -1,0 +1,39 @@
+{
+  "name": "Lazy-Guardian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "akaneko": "^3.0.2",
+    "ascii-table": "0.0.9",
+    "beautify": "0.0.8",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-glitch-keepalive": "^0.2.0",
+    "figlet": "^1.5.0",
+    "graceful-fs": "^4.2.4",
+    "imdb-api": "^4.2.0",
+    "mathjs": "^7.1.0",
+    "moment": "^2.27.0",
+    "mongoose": "^5.10.0",
+    "ms": "^2.1.2",
+    "nekos.life": "^2.0.7",
+    "node-superfetch": "^0.1.10",
+    "os-utils": "0.0.14",
+    "request-promise-native": "^1.0.9",
+    "snekfetch": "^4.0.4",
+    "something-random-on-discord": "0.0.2",
+    "urban": "^0.3.2",
+    "weather-js": "^2.0.0",
+    "yt-search": "^2.2.2",
+    "ytdl-core": "^3.2.2",
+    "ytpl": "^0.3.0"
+  }
+}
