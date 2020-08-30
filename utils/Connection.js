@@ -10,7 +10,7 @@ module.exports = {
             family:4
         };
 
-        mongoose.connect('mongodb+srv://Yeet:Yeet@lazyguardian.wr5q3.gcp.mongodb.net/LazyGuardian?retryWrites=true&w=majority', dbOptions);
+        mongoose.connect('[LOGIN INFORMATION FOR MONGOOSE(go to mongodb to acquire)]', dbOptions);
 
         mongoose.set('useFindAndModify', false);
         mongoose.Promise = global.Promise;
