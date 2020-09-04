@@ -1,4 +1,6 @@
 # Lazy-Guardian-Project
+[![Discord Mine](https://img.shields.io/discord/573954110454366214?label=chat&logo=discord&logoColor=white)](https://discord.gg/x4qGz3D)
+
 Hello! This is the Lazy Guardian Project and it's the type of project that I am wanting to turn into something much more. My dream is to create the "perfect" and first of its kind, Discord Super Bot which will be an All Purpose discord bot. I am far ways from getting this done, But, i assure you it is possible, i know it is, and I will not stop until I am finished If you wish to support him or perhaps even join him in the making of this discord super bot, you can contact him [here](https://discord.io/TheLoungingArea "The Lounge"). His username is @Wintercearig#8773 if you wish to contact him directly on discord.
 
 ## Made with [Repl.it](https://repl.it.com/ "A super powerful tool!")
